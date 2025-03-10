@@ -1,2 +1,2 @@
-# building_makemore_4_animals-_names
+# building_makemore
 Building makemore but for animals' names.
